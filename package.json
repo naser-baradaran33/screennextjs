@@ -10,7 +10,11 @@
   },
   "dependencies": {
     "better-auth": "^1.5.1",
+    "drizzle-kit": "^0.18.1",
+    "drizzle-orm": "^0.45.1",
     "next": "16.1.6",
+    "pg": "^8.19.0",
+    "postgres": "^3.4.8",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
